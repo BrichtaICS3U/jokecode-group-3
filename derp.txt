@@ -1,3 +1,7 @@
 Banannanananannananannanananananannananananananana
 potatototototototoototototototototototottototototo
+<<<<<<< HEAD
 tomatototototototototototototototototototototototo
+=======
+(~030)~  ~(030)~  ~(030~)
+>>>>>>> ac316fda93a24f427982b2d560f3b24ac0452f7f
